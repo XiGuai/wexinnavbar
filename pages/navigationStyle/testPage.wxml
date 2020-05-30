@@ -1,0 +1,4 @@
+<!-- 测试路由跳转页面 -->
+<headerNavbar navbar-data='{{nvabarData}}'></headerNavbar>
+<view class='text'>
+</view>
